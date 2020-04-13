@@ -1,0 +1,5 @@
+# object files
+*.o
+hello
+hello_debug
+
