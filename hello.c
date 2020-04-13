@@ -1,4 +1,5 @@
-#include <stdio.c>
+#include <stdio.h>
 int main(){
-	printf("Hello World!!!");
+	printf("Hello World!!!\n");
+	printf("Name : GeonHa\n");
 }
